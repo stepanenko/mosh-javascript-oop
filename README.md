@@ -1,30 +1,6 @@
 ## [Object-oriented Programming in JavaScript](https://coursehunter.net/course/obektno-orientirovannoe-programmirovanie-v-javascript)
 
-**Current ->** 10- Abstraction
-04:02
-
-11- Private Properties and Methods
-04:05
-
-Getters and Setters
-05:36
-
-13- Cheat Sheet
-00:00
-
-14- Exercise- Stop Watch
-02:08
-
-15- Solution- Stopwatch
-02:31
-
-Prototypes
-37:24
-
-1- Inheritance
-02:26
-
-2- Prototypes and Prototypical Inheritance
+**Current ->** 2- Prototypes and Prototypical Inheritance
 05:33
 
 3- Multi-level Inheritance
