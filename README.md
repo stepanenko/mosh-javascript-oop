@@ -1,15 +1,6 @@
 ## [Object-oriented Programming in JavaScript](https://coursehunter.net/course/obektno-orientirovannoe-programmirovanie-v-javascript)
 
-7- Value vs Reference Types
-05:49
-
-8- Adding or Removing Properties
-03:53
-
-9- Enumerating Properties
-02:50
-
-10- Abstraction
+**Current ->** 10- Abstraction
 04:02
 
 11- Private Properties and Methods
