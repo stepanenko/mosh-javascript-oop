@@ -1,15 +1,6 @@
 ## [Object-oriented Programming in JavaScript](https://coursehunter.net/course/obektno-orientirovannoe-programmirovanie-v-javascript)
 
-**Current ->** 2- Prototypes and Prototypical Inheritance
-05:33
-
-3- Multi-level Inheritance
-02:51
-
-4- Property Descriptors
-05:07
-
-5- Constructor Prototypes
+**Current ->** 5- Constructor Prototypes
 03:52
 
 6- Prototype vs. Instance Members
