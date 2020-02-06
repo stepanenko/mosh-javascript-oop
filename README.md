@@ -1,30 +1,6 @@
 ## [Object-oriented Programming in JavaScript](https://coursehunter.net/course/obektno-orientirovannoe-programmirovanie-v-javascript)
 
-**Current ->** 5- Constructor Prototypes
-03:52
-
-6- Prototype vs. Instance Members
-06:04
-
-7- Iterating Instance and Prototype Members
-02:39
-
-8- Avoid Extending the Built-in Objects
-01:41
-
-9- Cheat Sheet
-00:00
-
-10- Exercise
-01:33
-
-11- Solution
-05:38
-
-Prototypical Inheritance
-50:32
-
-1- Creating Your Own Prototypical Inheritance
+**Current ->** 1- Creating Your Own Prototypical Inheritance
 05:34
 
 2- Resetting the Constructor
