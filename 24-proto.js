@@ -1,5 +1,6 @@
 
 function Circle(radius) {
+  // Instance members
   this.radius = radius;
 
   this.color = function() {
@@ -12,6 +13,7 @@ function Circle(radius) {
   }
 }
 
+// Prototype members:
 Circle.prototype.draw = function() {
   this.takePen();
   console.log('draw');
