@@ -1,21 +1,7 @@
+
 ## [Object-oriented Programming in JavaScript](https://coursehunter.net/course/obektno-orientirovannoe-programmirovanie-v-javascript)
 
-**Current ->** 1- Creating Your Own Prototypical Inheritance
-05:34
-
-2- Resetting the Constructor
-04:01
-
-3- Calling the Super Constructor
-03:48
-
-4- Intermediate Function Inheritance
-03:05
-
-5- Method Overriding
-03:29
-
-6- Polymorphism
+**Current ->** 6- Polymorphism
 04:22
 
 7- When to Use Inheritance
