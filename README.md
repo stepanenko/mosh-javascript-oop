@@ -1,46 +1,7 @@
 
 ## [Object-oriented Programming in JavaScript](https://coursehunter.net/course/obektno-orientirovannoe-programmirovanie-v-javascript)
 
-**Current ->** 6- Polymorphism
-04:22
-
-7- When to Use Inheritance
-03:23
-
-8- Mixins
-05:53
-
-9- Cheat Sheet
-00:00
-
-10- Exercise Prototypical Inheritence
-03:18
-
-11- Solution Prototypical Inheritance
-05:53
-
-12- Exercise- Polymorphism
-02:35
-
-13- Solution- Polymorphism
-05:11
-
-ES6 Classes
-50:35
-
-1- ES6 Classes
-05:41
-
-2- Hoisting
-03:46
-
-3- Static Methods
-04:17
-
-4- The This Keyword
-04:57
-
-5- Private Members Using Symbols
+**Current ->** 5- Private Members Using Symbols
 07:48
 
 Private Members Using WeakMaps
