@@ -16,17 +16,11 @@ Inheritance
 9- Method Riding
 02:33
 
-10- Cheat Sheet
-00:00
-
 11- Exercise
 03:25
 
 12- Solution
 04:20
-
-ES6 Modules
-30:23
 
 1- Modules
 03:42
