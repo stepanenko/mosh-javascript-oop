@@ -1,19 +1,7 @@
 
 ## [Object-oriented Programming in JavaScript](https://coursehunter.net/course/obektno-orientirovannoe-programmirovanie-v-javascript)
 
-**Current ->** 5- Private Members Using Symbols
-07:48
-
-Private Members Using WeakMaps
-06:58
-
-7- Getters and Setters
-02:50
-
-Inheritance
-04:00
-
-9- Method Riding
+**Current ->** 9- Method Riding
 02:33
 
 11- Exercise
