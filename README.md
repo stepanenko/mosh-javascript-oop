@@ -5,10 +5,7 @@
 
 **Release Date:** 08.05.2018
 
-**Current ->** 9- Method Riding
-02:33
-
-11- Exercise
+**Current ->** 11- Exercise
 03:25
 
 12- Solution
