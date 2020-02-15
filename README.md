@@ -5,14 +5,7 @@
 
 **Release Date:** 08.05.2018
 
-**Current ->** 11- Exercise
-03:25
-
-12- Solution
-04:20
-
-1- Modules
-03:42
+**Current ->** 1- Modules 03:42
 
 2- CommonJS Modules
 05:51
