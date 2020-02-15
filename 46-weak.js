@@ -21,4 +21,5 @@ class Circle {
 
 let c = new Circle(2);
 console.log(c.draw());   // 2  moving
-
+console.log(_radius.get(c));   // 2
+console.log(_move.get(c)());   // 2  moving
