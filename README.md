@@ -1,23 +1,27 @@
 
 ## [Object-oriented Programming in JavaScript](https://coursehunter.net/course/obektno-orientirovannoe-programmirovanie-v-javascript)
 
+Author: **Mosh Hamedani**
+
 Duration: **03:53:46**
 
-Release Date: **08.05.2018**
+Updated: **13.05.2018**
 
-Current: **1- Modules 03:42**
+Progress: **51/57**
 
-2- CommonJS Modules
+Current: **52 Modules 03:42**
+
+53 CommonJS Modules
 05:51
 
-3- ES6 Modules
+54 ES6 Modules
 03:24
 
-4- ES6 Tooling
+55 ES6 Tooling
 01:26
 
-5- Babel
+56 Babel
 07:11
 
-6- Webpack
+57 Webpack
 08:26
